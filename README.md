@@ -2,12 +2,16 @@
 
 ![InfraCloud](https://www.infracloud.io/assets/img/infracloud.svg)
 
+[![image.png](https://i.postimg.cc/T3hts6wm/image.png)](https://postimg.cc/yD4hJ20Y)
+
 **What do we do?**
 
 We consult orgs of all sizes around Cloud Native & DevOps, leverage open source technologies, often get our hands dirty, and build products from scratch and open source them!
 
 
 ## Making Amazing Products 📦
+
+[![image.png](https://i.postimg.cc/5tbMvyp1/image.png)](https://postimg.cc/nXR5fH6w)
 
 [Fission](https://github.com/fission/fission/commits?author=vishal-biyani): Fission is a serverless platform for Kubernetes – and enables an AWS lambda-like easy experience for anyone new to the Kubernetes platform.
 
@@ -16,8 +20,11 @@ We consult orgs of all sizes around Cloud Native & DevOps, leverage open source 
 [Krius](https://github.com/infracloudio/krius): Krius is a CLI tool designed to install all the observability stack components (namely Prometheus and Thanos so far) needed for monitoring deployed applications in your Kubernetes cluster(s).
 
 
-## Paying it Forward to the Open Source Community🤖 \
+## Paying it Forward to the Open Source Community🤖 
 
+[![CPT2311211729-362x475.gif](https://i.postimg.cc/Ssyk0rvw/CPT2311211729-362x475.gif)](https://postimg.cc/Z9D1prZc)
+
+Our developers are actively contributing to cloud native open source projects to define and shape the future of Infrastructure
 
 ## Awards & Achievements 🏆
 
@@ -29,7 +36,11 @@ Some of our achievements 💪
 * 2023 Stratus Award for Cloud Computing in the Kubernetes category winners
 * 1st Kubernetes Partner in India & 2nd in APAC 
 * One of the very 1st CKA Engineers is from InfraCloud
-* 4 CKS, 51 CKA & 19 Certified Kubernetes App Developers & counting.
+* 4 CKS, 51 CKA & 19 Certified Kubernetes App Developers & counting
+
+[![image.png](https://i.postimg.cc/Vk8CryrM/image.png)](https://postimg.cc/dL51px9t)
+
+[![image.png](https://i.postimg.cc/tJgHm4MP/image.png)](https://postimg.cc/ft1FVDZT)
 
 ## InfraCloud Bouquet 💐 of Gems
 
@@ -50,11 +61,17 @@ Some of our achievements 💪
 
 Everything to do at InfraCloud is driven by our culture. Our four core values are not just words on a web page, but a foundation of the [way Infranauts work and spend time at InfraClou](https://www.infracloud.io/the-infracloud-way/)d, proven with the award of “Best places to work on Glassdoor”.
 
+[![image.png](https://i.postimg.cc/g20bzjzT/image.png)](https://postimg.cc/2VgKTzBQ)
+
 Join us as we build a company that approaches work from a fresh perspective 🌿 We are always looking for talent to [join us](https://www.infracloud.io/careers/).
 
 ## Recent Blog Posts
 
 Regularly sharing our learnings in the form of tutorials, guides, and opinions from the tech space 📜
+
+[How to Show Your Latest Blogs on GitHub Profile](https://blog.sachinchaurasiya.dev/how-to-show-your-latest-blogs-on-github-profile)
+
+[![image.png](https://i.postimg.cc/GpHxXJXj/image.png)](https://postimg.cc/94H9MT54)
 
 ## Thanks for stopping by! We can't wait to connect with you. 🎉
 
