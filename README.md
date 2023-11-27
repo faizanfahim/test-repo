@@ -34,7 +34,6 @@ Be it our company culture, partnership with peers, or taking the cloud native in
 
 Some of our achievements 💪
 
-* Winner of Startups in Asia award
 * 2023 Stratus Award for Cloud Computing in the Kubernetes category winners
 * 1st Kubernetes Partner in India & 2nd in APAC 
 * One of the very 1st CKA Engineers is from InfraCloud
