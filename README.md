@@ -23,7 +23,7 @@ We consult orgs of all sizes around Cloud Native & DevOps, leverage open source 
 ## Paying it Forward to the Open Source Community 🤖
 
 <p align="center">
-  <img src="https://postimg.cc/DWYP50mk" alt="Open Source Community">
+  <img src="https://i.postimg.cc/XJn1jybJ/oss-contributions-infracloud.png" alt="Open Source Community">
 </p>
 
 Our developers are actively contributing to cloud native open source projects to define and shape the future of Infrastructure
