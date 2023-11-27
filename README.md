@@ -68,6 +68,11 @@ Join us as we build a company that approaches work from a fresh perspective 🌿
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Fail at Platform Engineering?](https://www.infracloud.io/blogs/how-to-fail-at-platform-engineering/)
+- [InfraCloud Wins Stratus Awards 2023](https://www.infracloud.io/blogs/infracloud-wins-stratus-awards-2023/)
+- [Mastering Platform Engineering with Kratix](https://www.infracloud.io/blogs/mastering-platform-engineering-with-kratix/)
+- [Mesh Matters: Making Istio Reliable using LitmusChaos](https://www.infracloud.io/blogs/making-istio-reliable-using-litmuschaos/)
+- [How to Use Argo CD to Deploy and Manage Kubernetes Jobs](https://www.infracloud.io/blogs/deploy-manage-kubernetes-jobs-using-argocd/)
 <!-- BLOG-POST-LIST:END -->
 
 [![image.png](https://i.postimg.cc/GpHxXJXj/image.png)](https://postimg.cc/94H9MT54)
