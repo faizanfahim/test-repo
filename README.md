@@ -16,9 +16,9 @@ We consult orgs of all sizes around Cloud Native & DevOps, leverage open source 
   <img src="https://i.postimg.cc/5tbMvyp1/image.png" alt="Product Image">
 </p>
 
-|**Fission**|**BotKube**|**Krius**|
-|:---:|:---:|:---:|
-|Fission is a serverless platform for Kubernetes – and enables an AWS lambda-like easy experience for anyone new to the Kubernetes platform|BotKube is a messaging bot that lets you monitor, debug, and run checks on your Kubernetes resources straight from your favorite messaging platform such as Slack, MS Teams, etc.|Krius is a CLI tool designed to install all the observability stack components (namely Prometheus and Thanos so far) needed for monitoring deployed applications in your Kubernetes cluster(s).|
+|                                                                **Fission**                                                                 |                                                                                    **BotKube**                                                                                    |                                                                                            **Krius**                                                                                            |
+| :----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Fission is a serverless platform for Kubernetes – and enables an AWS lambda-like easy experience for anyone new to the Kubernetes platform | BotKube is a messaging bot that lets you monitor, debug, and run checks on your Kubernetes resources straight from your favorite messaging platform such as Slack, MS Teams, etc. | Krius is a CLI tool designed to install all the observability stack components (namely Prometheus and Thanos so far) needed for monitoring deployed applications in your Kubernetes cluster(s). |
 
 ## Paying it Forward to the Open Source Community 🤖
 
@@ -34,10 +34,10 @@ Be it our company culture, partnership with peers, or taking the cloud native in
 
 Some of our achievements 💪
 
-* 2023 Stratus Award for Cloud Computing in the Kubernetes category winners
-* 1st Kubernetes Partner in India & 2nd in APAC 
-* One of the very 1st CKA Engineers is from InfraCloud
-* 4 CKS, 51 CKA & 19 Certified Kubernetes App Developers & counting
+- 2023 Stratus Award for Cloud Computing in the Kubernetes category winners
+- 1st Kubernetes Partner in India & 2nd in APAC
+- One of the very 1st CKA Engineers is from InfraCloud
+- 4 CKS, 51 CKA & 19 Certified Kubernetes App Developers & counting
 
 [![image.png](https://i.postimg.cc/Vk8CryrM/image.png)](https://postimg.cc/dL51px9t)
 
@@ -47,13 +47,13 @@ Some of our achievements 💪
 
 [banner to show it all]
 
-* [School of Academy](https://www.infracloud.io/kubernetes-school/) 📚: 100% Free Kubernetes courses, training, and hands-on knowledge about Kubernetes.
-* [Mentoring Sessions](https://www.infracloud.io/career-cloud-native/) 🧑‍🏫: Get help from our mentors for accelerating your career or making the shift to cloud native.
-* [Cloud Native Talks](https://www.infracloud.io/cloud-native-talks/) 🎙️: Get free access to all the amazing talks, workshops, webinars, and sessions by Infranauts.
-* [CNCF Landscape Navigator](https://www.infracloud.io/landscape-navigator/) 🧭: The ultimate tool to identify the best CNCF projects, that are right for you.
-* [Cloud Native Wordle](https://www.infracloud.io/play/cloud-native-wordle/) 🧩: Try the cloud native version of the popular Wordle game.
-* Spelling Bee: A fun game to make cloud native related words from six random alphabets given to you.
-* [Phippy Comic](https://www.infracloud.io/phippy-cloud-native-transformation/) 📕: Read an interesting comic on how Captain Kube helped Phippy understand what is cloud native.
+- [School of Academy](https://www.infracloud.io/kubernetes-school/) 📚: 100% Free Kubernetes courses, training, and hands-on knowledge about Kubernetes.
+- [Mentoring Sessions](https://www.infracloud.io/career-cloud-native/) 🧑‍🏫: Get help from our mentors for accelerating your career or making the shift to cloud native.
+- [Cloud Native Talks](https://www.infracloud.io/cloud-native-talks/) 🎙️: Get free access to all the amazing talks, workshops, webinars, and sessions by Infranauts.
+- [CNCF Landscape Navigator](https://www.infracloud.io/landscape-navigator/) 🧭: The ultimate tool to identify the best CNCF projects, that are right for you.
+- [Cloud Native Wordle](https://www.infracloud.io/play/cloud-native-wordle/) 🧩: Try the cloud native version of the popular Wordle game.
+- Spelling Bee: A fun game to make cloud native related words from six random alphabets given to you.
+- [Phippy Comic](https://www.infracloud.io/phippy-cloud-native-transformation/) 📕: Read an interesting comic on how Captain Kube helped Phippy understand what is cloud native.
 
 ## Become an Infranaut 🌌
 
@@ -67,16 +67,13 @@ Join us as we build a company that approaches work from a fresh perspective 🌿
 
 ## Recent Blog Posts
 
-Regularly sharing our learnings in the form of tutorials, guides, and opinions from the tech space 📜
-
-[How to Show Your Latest Blogs on GitHub Profile](https://blog.sachinchaurasiya.dev/how-to-show-your-latest-blogs-on-github-profile)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [![image.png](https://i.postimg.cc/GpHxXJXj/image.png)](https://postimg.cc/94H9MT54)
 
 ## Thanks for stopping by! We can't wait to connect with you. 🎉
 
-* 🌐 [Visit our Website](https://www.infracloud.io)
-* ✉️ Email us at [contact]@infracloud.io
-* 📱 Connect on [Twitter](https://twitter.com/infracloudio) and [Linkedin](https://www.linkedin.com/company/infracloudio/)
-
-
+- 🌐 [Visit our Website](https://www.infracloud.io)
+- ✉️ Email us at [contact]@infracloud.io
+- 📱 Connect on [Twitter](https://twitter.com/infracloudio) and [Linkedin](https://www.linkedin.com/company/infracloudio/)
