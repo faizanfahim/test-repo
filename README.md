@@ -16,11 +16,9 @@ We consult orgs of all sizes around Cloud Native & DevOps, leverage open source 
   <img src="https://i.postimg.cc/5tbMvyp1/image.png" alt="Product Image">
 </p>
 
-[Fission](https://github.com/fission/fission/commits?author=vishal-biyani): Fission is a serverless platform for Kubernetes – and enables an AWS lambda-like easy experience for anyone new to the Kubernetes platform.
-
-[BotKube](https://github.com/kubeshop/botkube): BotKube is a messaging bot that lets you monitor, debug, and run checks on your Kubernetes resources straight from your favorite messaging platform such as Slack, MS Teams, etc.
-
-[Krius](https://github.com/infracloudio/krius): Krius is a CLI tool designed to install all the observability stack components (namely Prometheus and Thanos so far) needed for monitoring deployed applications in your Kubernetes cluster(s).
+|**Fission**|**BotKube**|**Krius**|
+|:---:|:---:|:---:|
+|Fission is a serverless platform for Kubernetes – and enables an AWS lambda-like easy experience for anyone new to the Kubernetes platform|BotKube is a messaging bot that lets you monitor, debug, and run checks on your Kubernetes resources straight from your favorite messaging platform such as Slack, MS Teams, etc.|Krius is a CLI tool designed to install all the observability stack components (namely Prometheus and Thanos so far) needed for monitoring deployed applications in your Kubernetes cluster(s).|
 
 ## Paying it Forward to the Open Source Community 🤖
 
