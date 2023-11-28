@@ -15,20 +15,10 @@ We consult orgs of all sizes around Cloud Native & DevOps, leverage open source 
 
 ## Making Amazing Products 📦
 
-<p align="center">
-  <img src="https://i.postimg.cc/5tbMvyp1/image.png" alt="Product Image">
-</p>
-
 |![Alt Text](https://drive.google.com/uc?id=15lJ6KvFNi6dwYRUiZXwH4hJKvef9lAyb)|![Alt Text](https://drive.google.com/uc?id=13X8YX0mNvnc6KGHexJGZSRinTOG3dM0t)|![Alt Text](https://drive.google.com/uc?id=1YhdqroYT55ngBPb3GvbyEkNYE2lSfT65)|
 |:---:|:---:|:---:|
 |Fission|BotKube|Krius|
 |Fission is a serverless platform for Kubernetes – and enables an AWS lambda-like easy experience for anyone new to the Kubernetes platform|BotKube is a messaging bot that lets you monitor, debug, and run checks on your Kubernetes resources straight from your favorite messaging platform such as Slack, MS Teams, etc.|Krius is a CLI tool designed to install all the observability stack components (namely Prometheus and Thanos so far) needed
-
-
-
-|                                                                **Fission**                                                                 |                                                                                    **BotKube**                                                                                    |                                                                                            **Krius**                                                                                            |
-| :----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Fission is a serverless platform for Kubernetes – and enables an AWS lambda-like easy experience for anyone new to the Kubernetes platform | BotKube is a messaging bot that lets you monitor, debug, and run checks on your Kubernetes resources straight from your favorite messaging platform such as Slack, MS Teams, etc. | Krius is a CLI tool designed to install all the observability stack components (namely Prometheus and Thanos so far) needed for monitoring deployed applications in your Kubernetes cluster(s). |
 
 ## Paying it Forward to the Open Source Community 🤖
 
