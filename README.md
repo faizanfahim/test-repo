@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://www.infracloud.io/assets/img/infracloud.svg" alt="InfraCloud">
-</p>
-
 ![Alt Text](https://drive.google.com/uc?id=13JMHmwDeoO5ZFKHeufZxGNVGzjEplFnR)
 
 # Hola` 👋
