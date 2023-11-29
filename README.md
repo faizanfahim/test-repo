@@ -7,7 +7,7 @@
 We consult orgs of all sizes around Cloud Native & DevOps, leverage open source technologies, often get our hands dirty, and build products from scratch and open source them!
 
 
-## Making Amazing Products 📦
+### Making Amazing Products 📦
 
 |![Alt Text](https://drive.google.com/uc?id=15lJ6KvFNi6dwYRUiZXwH4hJKvef9lAyb)|![Alt Text](https://drive.google.com/uc?id=13X8YX0mNvnc6KGHexJGZSRinTOG3dM0t)|![Alt Text](https://drive.google.com/uc?id=1YhdqroYT55ngBPb3GvbyEkNYE2lSfT65)|
 |:---:|:---:|:---:|
@@ -15,7 +15,7 @@ We consult orgs of all sizes around Cloud Native & DevOps, leverage open source 
 |A serverless platform for Kubernetes – and enables an AWS lambda-like easy experience for anyone new to the Kubernetes platform.| A messaging bot that lets you monitor, debug, & run checks on your K8s resources straight from your favorite messaging platform such as Slack, MS Teams, etc.| A CLI tool designed to install all the observability stack components (namely Prometheus and Thanos so far) needed.
 
 
-## Paying it Forward to the Open Source Community 🤖
+## Paying it Forward to the OSS Community 🤖
 Our developers are actively contributing to cloud-native open source projects to define and shape the future of Infrastructure.
 
 ![Alt Text](https://drive.google.com/uc?id=1qXMmc-THpxnvX6CRSpTMg6kkPyAa7jYG)
@@ -39,22 +39,14 @@ Some of our achievements 💪
 
 [banner to show it all]
 
-- [School of Academy](https://www.infracloud.io/kubernetes-school/) 📚: 100% Free Kubernetes courses, training, and hands-on knowledge about Kubernetes.
+- [School of Kubernetes](https://www.infracloud.io/kubernetes-school/) 📚: 100% Free Kubernetes courses, training, and hands-on knowledge about Kubernetes.
 - [Mentoring Sessions](https://www.infracloud.io/career-cloud-native/) 🧑‍🏫: Get help from our mentors for accelerating your career or making the shift to cloud native.
 - [Cloud Native Talks](https://www.infracloud.io/cloud-native-talks/) 🎙️: Get free access to all the amazing talks, workshops, webinars, and sessions by Infranauts.
 - [CNCF Landscape Navigator](https://www.infracloud.io/landscape-navigator/) 🧭: The ultimate tool to identify the best CNCF projects, that are right for you.
 - [Cloud Native Wordle](https://www.infracloud.io/play/cloud-native-wordle/) 🧩: Try the cloud native version of the popular Wordle game.
-- Spelling Bee: A fun game to make cloud native related words from six random alphabets given to you.
+- [Spelling Bee](https://www.infracloud.io/play/spelling-bee/): A fun game to make cloud native related words from six random alphabets given to you.
 - [Phippy Comic](https://www.infracloud.io/phippy-cloud-native-transformation/) 📕: Read an interesting comic on how Captain Kube helped Phippy understand what is cloud native.
 
-## Become an Infranaut 🌌
-
-Everything to do at InfraCloud is driven by our culture. Our four core values are not just words on a web page, but a foundation of the [way Infranauts work and spend time at InfraClou](https://www.infracloud.io/the-infracloud-way/)d, proven with the award of “Best places to work on Glassdoor”.
-
-![Alt Text](https://drive.google.com/uc?id=1bgOLvG88MzyGL8198esSRXOQLk89VmWo)
-
-
-Join us as we build a company that approaches work from a fresh perspective 🌿 We are always looking for talent to [join us](https://www.infracloud.io/careers/).
 
 ## Recent Blog Posts
 
@@ -67,6 +59,16 @@ Join us as we build a company that approaches work from a fresh perspective 🌿
 <!-- BLOG-POST-LIST:END -->
 
 [![image.png](https://i.postimg.cc/GpHxXJXj/image.png)](https://postimg.cc/94H9MT54)
+
+## Become an Infranaut 🌌
+
+Everything to do at InfraCloud is driven by our culture. Our four core values are not just words on a web page, but a foundation of the [way Infranauts work and spend time at InfraClou](https://www.infracloud.io/the-infracloud-way/)d, proven with the award of “Best places to work on Glassdoor”.
+
+![Alt Text](https://drive.google.com/uc?id=1bgOLvG88MzyGL8198esSRXOQLk89VmWo)
+
+
+Join us as we build a company that approaches work from a fresh perspective 🌿 We are always looking for talent to [join us](https://www.infracloud.io/careers/).
+
 
 ## Thanks for stopping by! We can't wait to connect with you. 🎉
 
