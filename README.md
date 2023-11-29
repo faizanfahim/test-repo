@@ -2,24 +2,24 @@
 
 # Hola` 👋
 
-**What do we do?**
+## What do we do?
 
 We consult orgs of all sizes around Cloud Native & DevOps, leverage open source technologies, often get our hands dirty, and build products from scratch and open source them!
+
 
 ## Making Amazing Products 📦
 
 |![Alt Text](https://drive.google.com/uc?id=15lJ6KvFNi6dwYRUiZXwH4hJKvef9lAyb)|![Alt Text](https://drive.google.com/uc?id=13X8YX0mNvnc6KGHexJGZSRinTOG3dM0t)|![Alt Text](https://drive.google.com/uc?id=1YhdqroYT55ngBPb3GvbyEkNYE2lSfT65)|
 |:---:|:---:|:---:|
-|Fission|BotKube|Krius|
-|Fission is a serverless platform for Kubernetes – and enables an AWS lambda-like easy experience for anyone new to the Kubernetes platform|BotKube is a messaging bot that lets you monitor, debug, and run checks on your Kubernetes resources straight from your favorite messaging platform such as Slack, MS Teams, etc.|Krius is a CLI tool designed to install all the observability stack components (namely Prometheus and Thanos so far) needed
+|**Fission**|**BotKube**|**Krius**|
+|A serverless platform for Kubernetes – and enables an AWS lambda-like easy experience for anyone new to the Kubernetes platform.| A messaging bot that lets you monitor, debug, & run checks on your K8s resources straight from your favorite messaging platform such as Slack, MS Teams, etc.| A CLI tool designed to install all the observability stack components (namely Prometheus and Thanos so far) needed.
+
 
 ## Paying it Forward to the Open Source Community 🤖
+Our developers are actively contributing to cloud-native open source projects to define and shape the future of Infrastructure.
 
-![Alt Text](https://drive.google.com/uc?id=11FiJ4qSp40lQLAuJryby8jYzi0CRGpVK)
 ![Alt Text](https://drive.google.com/uc?id=1qXMmc-THpxnvX6CRSpTMg6kkPyAa7jYG)
 
-
-Our developers are actively contributing to cloud native open source projects to define and shape the future of Infrastructure
 
 ## Awards & Achievements 🏆
 
