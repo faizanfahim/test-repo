@@ -1,13 +1,10 @@
-# Hola` 👋
-
 <p align="center">
   <img src="https://www.infracloud.io/assets/img/infracloud.svg" alt="InfraCloud">
 </p>
 
-![Alt Text](https://drive.google.com/uc?id=1j_YGDTzRudcFUK_WLzP-Lmlw4rkhvHCY)
 ![Alt Text](https://drive.google.com/uc?id=13JMHmwDeoO5ZFKHeufZxGNVGzjEplFnR)
-![Alt Text](https://drive.google.com/uc?id=1uOLdo-3XtiW1HrZLLw-k1C1YpixGloUB)
 
+# Hola` 👋
 
 **What do we do?**
 
