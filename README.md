@@ -71,7 +71,7 @@ Our culture drives everything we do at InfraCloud. Our four core values are not 
 Join us as we build a company that approaches work from a fresh perspective 🌿 We are always looking for talent to [join us](https://www.infracloud.io/careers/).
 
 
-## Thanks for stopping by! We can't wait to connect with you. 🎉
+## Hey, let's connect!
 
 - 🌐 [Visit our Website](https://www.infracloud.io)
 - ✉️ Email us at [contact]@infracloud.io
