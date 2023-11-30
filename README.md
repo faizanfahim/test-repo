@@ -2,7 +2,7 @@
 
 # Hola` 👋
 
-## What do we do?
+## So, what do we do?
 
 We consult orgs of all sizes around Cloud Native & DevOps, leverage open source technologies, often get our hands dirty, and build products from scratch and open source them!
 
@@ -12,10 +12,10 @@ We consult orgs of all sizes around Cloud Native & DevOps, leverage open source 
 |![Alt Text](https://drive.google.com/uc?id=15lJ6KvFNi6dwYRUiZXwH4hJKvef9lAyb)|![Alt Text](https://drive.google.com/uc?id=13X8YX0mNvnc6KGHexJGZSRinTOG3dM0t)|![Alt Text](https://drive.google.com/uc?id=1YhdqroYT55ngBPb3GvbyEkNYE2lSfT65)|
 |:---:|:---:|:---:|
 |**Fission**|**BotKube**|**Krius**|
-|An open source serverless platform for Kubernetes – and enables an AWS lambda-like easy experience for anyone new to the Kubernetes platform.| A messaging bot that lets you monitor, debug, & run checks on your K8s resources from your favorite messaging platform like Slack, MS Teams, etc.| A command line interface tool designed to implement all the observability stack components (namely Prometheus and Thanos so far) is needed.
+|An open source serverless platform for Kubernetes – and enables an AWS Lambda-like easy experience for anyone new to the Kubernetes platform.| A messaging bot that lets you monitor, debug, & run checks on your K8s resources from your favorite messaging platform like Slack, MS Teams, etc.| A command line interface tool designed to implement all the observability stack components (namely Prometheus and Thanos so far) is needed.
 
 
-## Paying it Forward to the OSS Community 🤖
+### Paying it Forward to the OSS Community 🤖
 Our developers are actively contributing to cloud-native open source projects to define and shape the future of Infrastructure.
 
 ![Alt Text](https://drive.google.com/uc?id=1qXMmc-THpxnvX6CRSpTMg6kkPyAa7jYG)
@@ -40,13 +40,13 @@ Some of our achievements 💪
 ![Image](https://drive.google.com/uc?export=view&id=1wTzur77beGZ8crdLP5zayRESTVti05cI)
 
 
-- [School of Kubernetes](https://www.infracloud.io/kubernetes-school/) 📚: 100% Free Kubernetes courses, training, and hands-on knowledge about Kubernetes.
-- [Mentoring Sessions](https://www.infracloud.io/career-cloud-native/) 🧑‍🏫: Get help from our mentors for accelerating your career or making the shift to cloud native.
-- [Cloud Native Talks](https://www.infracloud.io/cloud-native-talks/) 🎙️: Get free access to all the amazing talks, workshops, webinars, and sessions by Infranauts.
+- [School of Kubernetes](https://www.infracloud.io/kubernetes-school/) 📚: 100% Free Kubernetes courses, training, and hands-on knowledge.
+- [Mentoring Sessions](https://www.infracloud.io/career-cloud-native/) 🧑‍🏫: Our mentors helping accelerate your cloud native career or making the shift.
+- [Cloud Native Talks](https://www.infracloud.io/cloud-native-talks/) 🎙️: Access all the amazing talks, workshops, webinars, and sessions by Infranauts.
 - [CNCF Landscape Navigator](https://www.infracloud.io/landscape-navigator/) 🧭: The ultimate tool to identify the best CNCF projects, that are right for you.
 - [Cloud Native Wordle](https://www.infracloud.io/play/cloud-native-wordle/) 🧩: Try the cloud native version of the popular Wordle game.
-- [Spelling Bee](https://www.infracloud.io/play/spelling-bee/) 🐝: A fun game to make cloud native related words from six random alphabets given to you.
-- [Phippy Comic](https://www.infracloud.io/phippy-cloud-native-transformation/) 📕: Read an interesting comic on how Captain Kube helped Phippy understand what is cloud native.
+- [Spelling Bee](https://www.infracloud.io/play/spelling-bee/) 🐝: A fun game to make cloud native related words from six random alphabets.
+- [Phippy Comic](https://www.infracloud.io/phippy-cloud-native-transformation/) 📕: Read how Captain Kube helped Phippy understand & leverage cloud native tech.
 
 
 ## Recent Blog Posts
@@ -63,7 +63,7 @@ Some of our achievements 💪
 
 ## Become an Infranaut 🌌
 
-Everything to do at InfraCloud is driven by our culture. Our four core values are not just words on a web page, but a foundation of the [way Infranauts work and spend time at InfraCloud](https://www.infracloud.io/the-infracloud-way/), proven with the award of “Best places to work on Glassdoor”.
+Our culture drives everything we do at InfraCloud. Our four core values are not just words, but a foundation of the [way Infranauts work and spend time at InfraCloud](https://www.infracloud.io/the-infracloud-way/), proven with the award of “Best places to work on Glassdoor” & "Great Place to Work" certification.
 
 ![Alt text](https://drive.google.com/uc?id=1cOVrJ5rAxRdC5glVohuYqQZXHSpVxYxY)
 
