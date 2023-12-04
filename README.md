@@ -51,12 +51,18 @@ Some of our achievements 💪
 
 ## Recent Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Unlocking the Basics of Port](https://www.infracloud.io/blogs/unlocking-basics-of-port/)
-- [Introducing InfraCloud’s Career Laddering Framework](https://www.infracloud.io/blogs/infracloud-career-laddering-framework/)
-- [How to Fail at Platform Engineering?](https://www.infracloud.io/blogs/how-to-fail-at-platform-engineering/)
-- [InfraCloud Wins Stratus Awards 2023](https://www.infracloud.io/blogs/infracloud-wins-stratus-awards-2023/)
-- [Mastering Platform Engineering with Kratix](https://www.infracloud.io/blogs/mastering-platform-engineering-with-kratix/)
+<!-- BLOG-POST-LIST:START --><table>
+  <tr>
+    <td> <img width="140px" src=""></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td> <img width="140px" src=""></td>
+  </tr>
+</table>
+
 <!-- BLOG-POST-LIST:END -->
 
 [![image.png](https://i.postimg.cc/GpHxXJXj/image.png)](https://postimg.cc/94H9MT54)
