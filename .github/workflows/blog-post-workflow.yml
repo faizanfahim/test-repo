@@ -20,20 +20,11 @@ jobs:
           max_post_count: 2
           feed_list: "https://deploy-preview-853--infracloud.netlify.app/feed.xml"
           custom_tags: "author/author/name,published/published"
-          date_format: "mmm d, yyyy"
           template: |
             <table>
-              <tr>
-                <td>
-                  <a href="$url">
-                    <img width="140px" src="example.com">
-                  </a>
-                </td>
-                <td>
-                  <a href="$url">$title</a>
-                  <br/>
-                  by $author on $published
-                </td>
-              </tr>
+              <tr><td><a href="$url"><img width="140px" src="$image" /></a></td></tr>
+              <tr><td><strong>$category</strong></td></tr>
+              <tr><td><a href="$url" style="text-decoration:none;color:#000;"><h3>$title</h3></a></td></tr>
+              <tr><td>by <em>$author</em> on $published<br/>$reading_time min read</td></tr>
             </table>
             $newline
