@@ -18,6 +18,7 @@ jobs:
         id: blog-post-workflow
         with:
           output_only: true
+          max_post_count: 4
           feed_list: "https://deploy-preview-853--infracloud.netlify.app/feed.xml"
       - run: echo  ${{ steps.blog-post-workflow.outputs.results }}
 
