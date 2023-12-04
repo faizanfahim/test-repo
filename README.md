@@ -56,16 +56,17 @@ Some of our achievements 💪
   <tr><td><strong>$category</strong></td></tr>
   <tr><td><a href="https://www.infracloud.io/blogs/unlocking-basics-of-port/" style="text-decoration:none;color:#000;"><h3>Unlocking the Basics of Port</h3></a></td></tr>
   <tr><td>by <em>Ubaid Ansari</em> on $published<br/>$reading_time min read</td></tr>
-</table>
-
-<table>
+</table><table>
   <tr><td><a href="https://www.infracloud.io/blogs/infracloud-career-laddering-framework/"><img width="140px" src="$image" /></a></td></tr>
   <tr><td><strong>$category</strong></td></tr>
   <tr><td><a href="https://www.infracloud.io/blogs/infracloud-career-laddering-framework/" style="text-decoration:none;color:#000;"><h3>Introducing InfraCloud’s Career Laddering Framework</h3></a></td></tr>
   <tr><td>by <em>Vishal Biyani</em> on $published<br/>$reading_time min read</td></tr>
-</table>
-
-<!-- BLOG-POST-LIST:END -->
+</table><table>
+  <tr><td><a href="https://www.infracloud.io/blogs/how-to-fail-at-platform-engineering/"><img width="140px" src="$image" /></a></td></tr>
+  <tr><td><strong>$category</strong></td></tr>
+  <tr><td><a href="https://www.infracloud.io/blogs/how-to-fail-at-platform-engineering/" style="text-decoration:none;color:#000;"><h3>How to Fail at Platform Engineering?</h3></a></td></tr>
+  <tr><td>by <em>Atulpriya Sharma</em> on $published<br/>$reading_time min read</td></tr>
+</table><!-- BLOG-POST-LIST:END -->
 
 [![image.png](https://i.postimg.cc/GpHxXJXj/image.png)](https://postimg.cc/94H9MT54)
 
