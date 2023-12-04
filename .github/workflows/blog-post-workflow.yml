@@ -17,7 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         id: blog-post-workflow
         with:
-          max_post_count: 2
+          max_post_count: 3
           feed_list: "https://deploy-preview-853--infracloud.netlify.app/feed.xml"
           custom_tags: "author/author/name,published/published"
           template: |
@@ -27,4 +27,3 @@ jobs:
               <tr><td><a href="$url" style="text-decoration:none;color:#000;"><h3>$title</h3></a></td></tr>
               <tr><td>by <em>$author</em> on $published<br/>$reading_time min read</td></tr>
             </table>
-            $newline
