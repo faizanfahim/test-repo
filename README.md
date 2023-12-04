@@ -11,8 +11,8 @@ We consult orgs of all sizes around Cloud Native & DevOps, leverage open source 
 
 |![Alt Text](https://drive.google.com/uc?id=15lJ6KvFNi6dwYRUiZXwH4hJKvef9lAyb)|![Alt Text](https://drive.google.com/uc?id=13X8YX0mNvnc6KGHexJGZSRinTOG3dM0t)|![Alt Text](https://drive.google.com/uc?id=1YhdqroYT55ngBPb3GvbyEkNYE2lSfT65)|
 |:---:|:---:|:---:|
-|**Fission**|**BotKube**|**Krius**|
-|An open source serverless platform for Kubernetes – and enables an AWS Lambda-like easy experience for anyone new to the Kubernetes platform.| A messaging bot that lets you monitor, debug, & run checks on your K8s resources from your favorite messaging platform like Slack, MS Teams, etc.| A command line interface tool designed to implement all the observability stack components (namely Prometheus and Thanos so far) is needed.
+|**Fission**|**Krius**|
+|An open source serverless platform for Kubernetes – and enables an AWS Lambda-like easy experience for anyone new to the Kubernetes platform.| A command line interface tool designed to implement all the observability stack components (namely Prometheus and Thanos so far) is needed.
 
 
 ### Paying it Forward to the OSS Community 🤖
