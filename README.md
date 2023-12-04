@@ -52,33 +52,17 @@ Some of our achievements 💪
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START --><table>
-  <tr>
-    <td>
-      <a href="https://www.infracloud.io/blogs/unlocking-basics-of-port/">
-        <img width="140px" src="example.com">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.infracloud.io/blogs/unlocking-basics-of-port/">Unlocking the Basics of Port</a>
-      <br/>
-      by Ubaid Ansari on $published
-    </td>
-  </tr>
+  <tr><td><a href="https://www.infracloud.io/blogs/unlocking-basics-of-port/"><img width="140px" src="$image" /></a></td></tr>
+  <tr><td><strong>$category</strong></td></tr>
+  <tr><td><a href="https://www.infracloud.io/blogs/unlocking-basics-of-port/" style="text-decoration:none;color:#000;"><h3>Unlocking the Basics of Port</h3></a></td></tr>
+  <tr><td>by <em>Ubaid Ansari</em> on $published<br/>$reading_time min read</td></tr>
 </table>
 
 <table>
-  <tr>
-    <td>
-      <a href="https://www.infracloud.io/blogs/infracloud-career-laddering-framework/">
-        <img width="140px" src="example.com">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.infracloud.io/blogs/infracloud-career-laddering-framework/">Introducing InfraCloud’s Career Laddering Framework</a>
-      <br/>
-      by Vishal Biyani on $published
-    </td>
-  </tr>
+  <tr><td><a href="https://www.infracloud.io/blogs/infracloud-career-laddering-framework/"><img width="140px" src="$image" /></a></td></tr>
+  <tr><td><strong>$category</strong></td></tr>
+  <tr><td><a href="https://www.infracloud.io/blogs/infracloud-career-laddering-framework/" style="text-decoration:none;color:#000;"><h3>Introducing InfraCloud’s Career Laddering Framework</h3></a></td></tr>
+  <tr><td>by <em>Vishal Biyani</em> on $published<br/>$reading_time min read</td></tr>
 </table>
 
 <!-- BLOG-POST-LIST:END -->
