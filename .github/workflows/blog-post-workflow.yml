@@ -16,4 +16,5 @@ jobs:
       - name: Pull in infracloud.io posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          output_only: true
           feed_list: "https://deploy-preview-853--infracloud.netlify.app/feed.xml"
