@@ -4,8 +4,7 @@
 
 ## So, what do we do?
 
-We consult orgs of all sizes around Cloud Native & DevOps, leverage open source technologies, often get our hands dirty, and build products from scratch and open source them!
-
+InfraCloud is a company focused on Infrastructure technologies - we have worked all the way from bare metal to building those cool Kubernetes Controllers. We do a few focused things in the space of infrastructure technologies - we have worked with early/mid stage startups building cloud native products with Go lang and technologies such as Kubernetes, Prometheus, Service mesh, and so on. Secondly, we work with enterprises to implement cloud native technologies. This usually spans from discovering their objectives with cloud native to actually implementing everything from CI/CD/GitOps to Service Mesh to Observability and Infra As a Code etc.
 
 ### Making Amazing Products 📦
 
@@ -23,7 +22,7 @@ Our developers are actively contributing to cloud-native open source projects to
 
 ## Awards & Achievements 🏆
 
-Be it our company culture, partnership with peers, or taking the cloud native industry one step further with our contributions, we are proud that our efforts are recognized and awarded.
+We value our company culture, collaboration with peers, and our contributions to the cloud native industry. It is rewarding to see our efforts acknowledged and appreciated through various recognitions and awards.
 
 Some of our achievements 💪
 
@@ -35,7 +34,7 @@ Some of our achievements 💪
 ![Image](https://drive.google.com/uc?export=view&id=1HN0hRPpOPZ5wAIw1Y5OdnDHlVANOO-nH)
 
 
-## InfraCloud Bouquet 💐 of Gems
+## Learn more about our creations
 
 ![Image](https://drive.google.com/uc?export=view&id=1wTzur77beGZ8crdLP5zayRESTVti05cI)
 
@@ -55,7 +54,7 @@ Some of our achievements 💪
   <tr>
     <td>
       <a href="https://www.infracloud.io/blogs/unlocking-basics-of-port/">
-        <img width="140px" src="example.com">
+        <img width="140px" src="https://www.infracloud.io/blogs/unlocking-basics-of-port/">
       </a>
     </td>
     <td>
