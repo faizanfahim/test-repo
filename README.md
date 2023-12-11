@@ -54,7 +54,7 @@ Some of our achievements 💪
   <tr>
     <td>
       <a href="https://www.infracloud.io/blogs/unlocking-basics-of-port/">
-        <img width="140px" src="https://www.infracloud.io/blogs/unlocking-basics-of-port/">
+        <img width="140px" src="example.com">
       </a>
     </td>
     <td>
