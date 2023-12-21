@@ -50,38 +50,6 @@ Some of our achievements 💪
 
 ## Recent Blog Posts
 
-<!-- BLOG-POST-LIST:START --><table>
-  <tr>
-    <td>
-      <a href="https://www.infracloud.io/blogs/unlocking-basics-of-port/">
-        <img width="140px" src="example.com">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.infracloud.io/blogs/unlocking-basics-of-port/">Unlocking the Basics of Port</a>
-      <br/>
-      by Ubaid Ansari
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://www.infracloud.io/blogs/infracloud-career-laddering-framework/">
-        <img width="140px" src="example.com">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.infracloud.io/blogs/infracloud-career-laddering-framework/">Introducing InfraCloud’s Career Laddering Framework</a>
-      <br/>
-      by Vishal Biyani
-    </td>
-  </tr>
-</table>
-
-<!-- BLOG-POST-LIST:END -->
-
 [![image.png](https://i.postimg.cc/GpHxXJXj/image.png)](https://postimg.cc/94H9MT54)
 
 ## Become an Infranaut 🌌
