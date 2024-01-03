@@ -29,12 +29,10 @@ jobs:
                   </a>
                 </td>
                 <td>
-                  <a href="$url">$title</a>
-                  <br/>
-                  <p>$summary</p>
-                  <br/>
-
+                  <a href="$url">$title</a> <br/>
                   by $author
+                  <br/>
+                  <p> $summary </p>
                 </td>
               </tr>
             </table>
