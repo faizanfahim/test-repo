@@ -18,7 +18,7 @@ jobs:
         id: blog-post-workflow
         with:
           max_post_count: 2
-          feed_list: "https://deploy-preview-853--infracloud.netlify.app/feed.xml"
+          feed_list: "https://deploy-preview-863--infracloud.netlify.app/feed.xml"
           custom_tags: "author/author/name,published/published,image/image"
           template: |
             <table>
