@@ -19,19 +19,19 @@ jobs:
         with:
           max_post_count: 2
           feed_list: "https://deploy-preview-863--infracloud.netlify.app/feed.xml"
-          custom_tags: "author/author/name,published/published,image/image"
+          custom_tags: "author/author/name,published/published,imageurl/image"
           template: |
             <table>
               <tr>
                 <td>
                   <a href="$url">
-                    <img width="140px" src="$image">
+                    <img width="140px" src="$imageurl">
                   </a>
                 </td>
                 <td>
                   <a href="$url">$title</a>
                   <br/>
-                  by $author $image
+                  by $author $imageurl
                 </td>
               </tr>
             </table>
