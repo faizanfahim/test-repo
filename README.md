@@ -54,13 +54,13 @@ Some of our achievements 💪
   <tr>
     <td>
       <a href="https://www.infracloud.io/blogs/port-vs-backstage-idp-comparison/">
-        <img width="140px" src="$image">
+        <img width="140px" src="$imageurl">
       </a>
     </td>
     <td>
       <a href="https://www.infracloud.io/blogs/port-vs-backstage-idp-comparison/">Port vs Backstage - Choosing Your Internal Developer Portal</a>
       <br/>
-      by Vaibhav Gupta $image
+      by Vaibhav Gupta $imageurl
     </td>
   </tr>
 </table>
@@ -69,13 +69,13 @@ Some of our achievements 💪
   <tr>
     <td>
       <a href="https://www.infracloud.io/blogs/root-cause-chronicles-connection-collapse/">
-        <img width="140px" src="$image">
+        <img width="140px" src="$imageurl">
       </a>
     </td>
     <td>
       <a href="https://www.infracloud.io/blogs/root-cause-chronicles-connection-collapse/">Root Cause Chronicles: Connection Collapse</a>
       <br/>
-      by Joy Bhattacherjee $image
+      by Joy Bhattacherjee $imageurl
     </td>
   </tr>
 </table>
