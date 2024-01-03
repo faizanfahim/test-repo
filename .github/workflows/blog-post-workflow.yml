@@ -25,7 +25,7 @@ jobs:
               <tr>
                 <td>
                   <a href="$url">
-                    <img width="400px" height="87px" src="$image">
+                    <img height="100px" src="$image">
                   </a>
                 </td>
                 <td>
