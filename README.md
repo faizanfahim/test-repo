@@ -54,7 +54,7 @@ Some of our achievements 💪
   <tr>
     <td>
       <a href="https://www.infracloud.io/blogs/port-vs-backstage-idp-comparison/">
-        <img width="400px" src="https://www.infracloud.io/assets/img/Blog/port-vs-backstage/port-vs-backstage-1200x628.png">
+        <img width="400px" height="87px" src="https://www.infracloud.io/assets/img/Blog/port-vs-backstage/port-vs-backstage-1200x628.png">
       </a>
     </td>
     <td>
@@ -71,7 +71,7 @@ Some of our achievements 💪
   <tr>
     <td>
       <a href="https://www.infracloud.io/blogs/root-cause-chronicles-connection-collapse/">
-        <img width="400px" src="https://www.infracloud.io/assets/img/Blog/root-cause-chronicles-connection-collapse/root-cause-chronicles-connection-collapse-1200x628.png">
+        <img width="400px" height="87px" src="https://www.infracloud.io/assets/img/Blog/root-cause-chronicles-connection-collapse/root-cause-chronicles-connection-collapse-1200x628.png">
       </a>
     </td>
     <td>
