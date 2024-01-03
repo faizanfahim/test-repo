@@ -53,14 +53,14 @@ Some of our achievements 💪
 <!-- BLOG-POST-LIST:START --><table>
   <tr>
     <td>
-      <a href="https://www.infracloud.io/blogs/unlocking-basics-of-port/">
+      <a href="https://www.infracloud.io/blogs/port-vs-backstage-idp-comparison/">
         <img width="140px" src="$image">
       </a>
     </td>
     <td>
-      <a href="https://www.infracloud.io/blogs/unlocking-basics-of-port/">Unlocking the Basics of Port</a>
+      <a href="https://www.infracloud.io/blogs/port-vs-backstage-idp-comparison/">Port vs Backstage - Choosing Your Internal Developer Portal</a>
       <br/>
-      by Ubaid Ansari
+      by Vaibhav Gupta $image
     </td>
   </tr>
 </table>
@@ -68,14 +68,14 @@ Some of our achievements 💪
 <table>
   <tr>
     <td>
-      <a href="https://www.infracloud.io/blogs/infracloud-career-laddering-framework/">
+      <a href="https://www.infracloud.io/blogs/root-cause-chronicles-connection-collapse/">
         <img width="140px" src="$image">
       </a>
     </td>
     <td>
-      <a href="https://www.infracloud.io/blogs/infracloud-career-laddering-framework/">Introducing InfraCloud’s Career Laddering Framework</a>
+      <a href="https://www.infracloud.io/blogs/root-cause-chronicles-connection-collapse/">Root Cause Chronicles: Connection Collapse</a>
       <br/>
-      by Vishal Biyani
+      by Joy Bhattacherjee $image
     </td>
   </tr>
 </table>
