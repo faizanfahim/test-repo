@@ -54,7 +54,7 @@ Some of our achievements 💪
   <tr>
     <td>
       <a href="https://www.infracloud.io/blogs/unlocking-basics-of-port/">
-        <img width="140px" src="example.com">
+        <img width="140px" src="$image">
       </a>
     </td>
     <td>
@@ -69,7 +69,7 @@ Some of our achievements 💪
   <tr>
     <td>
       <a href="https://www.infracloud.io/blogs/infracloud-career-laddering-framework/">
-        <img width="140px" src="example.com">
+        <img width="140px" src="$image">
       </a>
     </td>
     <td>
