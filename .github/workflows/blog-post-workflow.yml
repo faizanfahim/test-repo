@@ -18,6 +18,7 @@ jobs:
         id: blog-post-workflow
         with:
           max_post_count: 2
+          output_only: true
           feed_list: "https://deploy-preview-863--infracloud.netlify.app/feed.xml"
           custom_tags: "author/author/name,published/published,image/image"
           template: |
@@ -36,3 +37,4 @@ jobs:
               </tr>
             </table>
             $newline
+      - run: echo ${{ steps.blog-post-workflow.outputs.results }}
