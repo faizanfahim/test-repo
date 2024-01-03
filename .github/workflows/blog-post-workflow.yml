@@ -32,6 +32,7 @@ jobs:
                   <a href="$url">$title</a> <br/>
                   by $author
                   <br/>
+                  <br/>
                   <p> $summary </p>
                 </td>
               </tr>
