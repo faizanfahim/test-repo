@@ -60,6 +60,9 @@ Some of our achievements 💪
     <td>
       <a href="https://www.infracloud.io/blogs/port-vs-backstage-idp-comparison/">Port vs Backstage - Choosing Your Internal Developer Portal</a>
       <br/>
+      <p>Explore the strengths and challenges of two leading IDPs, Backstage and Port, and choose the best for your organization.</p>
+      <br/>
+
       by Vaibhav Gupta
     </td>
   </tr>
@@ -75,6 +78,9 @@ Some of our achievements 💪
     <td>
       <a href="https://www.infracloud.io/blogs/root-cause-chronicles-connection-collapse/">Root Cause Chronicles: Connection Collapse</a>
       <br/>
+      <p>What does it take to troubleshoot a complex web of cloud-native microservices? We take you on a BTS journey of an incident with SREs on the hot seat.</p>
+      <br/>
+
       by Joy Bhattacherjee
     </td>
   </tr>
